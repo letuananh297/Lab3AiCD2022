@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Второй курс (2)\АиСД\Lab3\BellmanFord.h(91,20): warning C4018: '<': signed/unsigned mismatch
+D:\Второй курс (2)\АиСД\Lab3\BellmanFord.h(94,20): warning C4018: '<': signed/unsigned mismatch
+D:\Второй курс (2)\АиСД\Lab3\BellmanFord.h(95,21): warning C4018: '<': signed/unsigned mismatch
+D:\Второй курс (2)\АиСД\Lab3\BellmanFord.h(109,22): warning C4018: '<': signed/unsigned mismatch
+D:\Второй курс (2)\АиСД\Lab3\main.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+  Lab3.vcxproj -> D:\Второй курс (2)\АиСД\Lab3\Debug\Lab3.exe

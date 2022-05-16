@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  test.cpp
+D:\Второй курс (2)\АиСД\Lab3\BellmanFord.h(91,20): warning C4018: '<': signed/unsigned mismatch
+D:\Второй курс (2)\АиСД\Lab3\BellmanFord.h(94,20): warning C4018: '<': signed/unsigned mismatch
+D:\Второй курс (2)\АиСД\Lab3\BellmanFord.h(95,21): warning C4018: '<': signed/unsigned mismatch
+D:\Второй курс (2)\АиСД\Lab3\BellmanFord.h(109,22): warning C4018: '<': signed/unsigned mismatch
+D:\Второй курс (2)\АиСД\Test Lab 3\test.cpp(5,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+D:\Второй курс (2)\АиСД\Test Lab 3\test.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+D:\Второй курс (2)\АиСД\Test Lab 3\test.cpp(55,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+D:\Второй курс (2)\АиСД\Test Lab 3\test.cpp(108,20): warning C4018: '<': signed/unsigned mismatch
+  Test Lab 3.vcxproj -> D:\Второй курс (2)\АиСД\Lab3\Debug\Test Lab 3.exe

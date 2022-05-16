@@ -1,0 +1,3 @@
+Saint Petersburg;Kazan;20;10
+Saint Petersburg;Moscow;20;30
+Kazan;Moscow;N/A;70
